@@ -103,10 +103,10 @@ I split my time between grinding contest problems on Codeforces/CodeChef/LeetCod
  
 ---
  
-### 💭 Quote of the Day
+### 💭 Quote
  
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Quote of the day" />
+  <em>"What are we, if not problem solvers?"</em>
 </p>
 ---
  
