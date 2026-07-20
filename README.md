@@ -1,16 +1,116 @@
-## Hi there 👋
-
-<!--
-**lembheharsh18/lembheharsh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=260&section=header&text=Hey,%20I'm%20Harsh%20Lembhe&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header banner"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&width=650&lines=Competitive+Programmer+%7C+Codeforces+Expert;AI+%26+Data+Science+Undergrad+%40+PICT;Building+FinRAG+%E2%80%94+RAG+for+Financial+Documents;Aspiring+Problem+Solver+for+Real-World+Systems" alt="Typing SVG" />
+</a>
+<p align="center">
+  <a href="https://linkedin.com/in/harsh-lembhe-53b900277"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lembheharsh0508@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://harsh-lembhe-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/lembheharsh18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+</div>
+---
+ 
+### 🙋‍♂️ About Me
+ 
+Hey, I'm Harsh — a 3rd-year **AI & Data Science** undergrad at Pune Institute of Computer Technology (CGPA: 9.35/10), a competitive programmer, and a full-stack developer who enjoys building things that actually solve problems rather than just look good in a demo.
+ 
+I split my time between grinding contest problems on Codeforces/CodeChef/LeetCode and building full-stack + AI-driven systems — most recently **FinRAG**, a retrieval-augmented generation pipeline that helps retail investors get grounded, cited answers out of dense financial filings. My long-term goal is simple: become a genuinely great problem solver, and use that to build systems that solve real-world problems at scale — not just toy projects.
+ 
+- 🔭 Currently building **FinRAG** — a hybrid dense + sparse retrieval RAG framework for financial documents
+- 🌱 Currently deepening my knowledge of **LangGraph, distributed systems, and system design at scale**
+- 🎯 2026 goal: sharpen problem-solving to the point where I can tackle real-world engineering problems, not just contest problems
+- 💬 Ask me about **DSA, Competitive Programming, RAG pipelines, Full-Stack (MERN) development**
+- ⚡ Fun fact: Codeforces Expert (1733) with a 500+ day continuous problem-solving streak, and I've cleared 3000+ problems across platforms
+---
+ 
+### ⚡ Featured Projects
+ 
+- **[FinRAG](https://github.com/lembheharsh18)** — End-to-end RAG pipeline for financial documents (10-K filings, annual reports). Hybrid dense + BM25 retrieval with cross-encoder re-ranking, LangGraph-based multi-hop query routing, Dockerized async ingestion workers, and a Redis caching layer. Achieved **87% faithfulness** and **83% precision** on FinanceBench (RAGAS).
+- **CoderSphere Community Hub** — Full-stack coders' community platform (React, Next.js, Node.js, Express, PostgreSQL, Prisma, Socket.io) with real-time chat, discussion forums, event reminders, and social engagement features via scalable REST APIs.
+---
+ 
+### 🏆 Competitive Programming & DSA
+ 
+**Codeforces:** Expert (1733) · **CodeChef:** 4★ (1941) · **LeetCode:** Guardian, Top 0.9% (2206)
+3000+ problems solved across platforms · 500+ day continuous practice streak
+ 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/harsh_lembhe18?theme=dark&font=Baloo+2&ext=heatmap" alt="LeetCode Stats" />
+</p>
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=harsh_lembhe18" alt="Codeforces Stats" />
+</p>
+<p align="center">
+  <a href="https://www.codechef.com/users/harsh18_07">
+    <img src="https://cp-logo.vercel.app/codechef/harsh18_07?logo=true" alt="CodeChef" />
+  </a>
+</p>
+**Recent Highlights**
+- Rank 48, CodeChef Starters 241
+- Rank 109, LeetCode Biweekly Contest 186
+- Rank 474, Codeforces April Fools Contest 2026
+- AIR 1458, IICPC CodeFest'25 Prelims (organized by top IITs)
+---
+ 
+### 🥇 Technical Achievements
+ 
+- 🏆 Won the DataQuest Model Building Competition by PICT ACM, outperforming 100+ participants
+- 🏆 Finalist, Top 100 at Suraksha Cyber Hackathon by Canara Bank (International Level)
+- 🥉 3rd place, AIT's CODEFT 5.0, outperforming 600+ competing coders
+- 🥇 1st place, IIT Patna's AlgoThugs 2026 CP contest
+---
+ 
+### 📊 GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=lembheharsh18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lembheharsh18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=lembheharsh18&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lembheharsh18&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+### 📈 Activity Graph
+ 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lembheharsh18&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+### 🐍 Contribution Snake
+ 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lembheharsh18/lembheharsh18/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lembheharsh18/lembheharsh18/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/lembheharsh18/lembheharsh18/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+<p align="center"><sub>⚠️ This only renders once you set up the <code>snake.yml</code> GitHub Action — instructions below.</sub></p>
+---
+ 
+### 🛠️ Tech Stack
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nodejs,express,django,flask,mongodb,mysql,postgresql,git,linux" alt="tech stack icons" />
+</p>
+**Languages:** Python, Java, C++, C, SQL, JavaScript (ES6+)
+**Frameworks/Runtime:** React.js, Node.js, Express.js (MERN), Flask, Django
+**Databases/Vector Stores:** MongoDB, MySQL, PostgreSQL, Prisma, Drizzle ORM, Pinecone, FAISS
+**CS Fundamentals:** DSA · OS · OOP · DBMS · Computer Networks
+ 
+---
+ 
+### 💭 Quote of the Day
+ 
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Quote of the day" />
+</p>
+---
+ 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=lembheharsh18&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=120&section=footer&reversal=true" width="100%" alt="footer banner"/>
+</div>
